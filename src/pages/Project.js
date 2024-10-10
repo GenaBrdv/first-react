@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import gitIcon from "./../img/icons/gitHub-black.svg"
 import {projects} from "./../helpers/projectList"
-import img from "./../img/projects/02-big.jpg"
+// import img from "./../img/projects/02-big.jpg"
 
 
 const PRoject = () => {
